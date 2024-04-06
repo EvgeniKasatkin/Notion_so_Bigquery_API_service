@@ -1,1 +1,1 @@
-An example of a simple service for updating pages notion.so using Google BigQuery as a database. The service provides update and inser information through the notion.so API and information messages in the telegram bot.
+An example of a simple service for updating pages notion.so using Google BigQuery as a database. The service provides update and insert information through the notion.so API and information messages in the telegram bot.
