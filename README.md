@@ -1,1 +1,1 @@
-Description in Readme in process
+An example of a simple service for updating pages notion.so using Google BigQuery as a database. The service provides updating and insertion information through the notion.so API and information messages in the telegram bot.
